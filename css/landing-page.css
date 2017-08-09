@@ -184,7 +184,7 @@ p.copyright {
   display: flex;
   flex-wrap: wrap;
 } */
-.row {
+/* .row {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -194,4 +194,4 @@ p.copyright {
 .row > [class*='col-'] {
   display: flex;
   flex-direction: column;
-}
+} */
